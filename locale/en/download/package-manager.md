@@ -32,7 +32,7 @@ title: Installing Node.js via package manager
 
 ## Android
 
-Android<Right>RG support is still experimental in Node.js, so precompiled binaries are not yet provided by Node.js developers.
+Android G support is still experimental in Node.js, so precompiled binaries are not yet provided by Node.js developers.
 
 However, there are some third-party solutions. For example, [Termux](https://termux.com/) community provides terminal emulator and Linux environment for Android, as well as own package manager and [extensive collection](https://github.com/termux/termux-packages) of many precompiled applications. This command in Termux app will install the last available Node.js version:
 
